@@ -1,4 +1,4 @@
-module clickhouse
+module github.com/sweetpotato0/clickhouse
 
 go 1.17
 

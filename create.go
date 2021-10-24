@@ -1,4 +1,4 @@
-package main
+package clickhouse
 
 import (
 	"gorm.io/gorm"
